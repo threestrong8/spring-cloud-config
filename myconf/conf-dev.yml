@@ -4,3 +4,5 @@ conf:
 spring:
   application:
     name: demoname
+config: 
+ info: 你是我的眼
