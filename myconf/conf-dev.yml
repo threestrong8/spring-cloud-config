@@ -1,3 +1,6 @@
 conf: 
  name: zsz
  age: 18
+spring:
+  application:
+    name: demoname
